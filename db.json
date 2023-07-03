@@ -9,19 +9,4 @@
     { "id": 4, "N_Con": "2004", "Status": 1, "Dt_Con": "01/04/2000"},
     { "id": 5, "N_Con": "2005", "Status": 1, "Dt_Con": "01/05/2000"}
   ],
-  "2001": [
-    { "id": 10, "P_Name": "Prod 10", "P_id": 10, "qtd": "1"},
-    { "id": 11, "P_Name": "Prod 11", "P_id": 11, "qtd": "1"},
-    { "id": 12, "P_Name": "Prod 12", "P_id": 12, "qtd": "10"}
-  ],
-  "2002": [
-    { "id": 13, "P_Name": "Prod 13", "P_id": 13, "qtd": "1"},
-    { "id": 14, "P_Name": "Prod 14", "P_id": 14, "qtd": "1"},
-    { "id": 15, "P_Name": "Prod 15", "P_id": 15, "qtd": "1"}
-  ],
-  "2003": [
-    { "id": 16, "P_Name": "Prod 16", "P_id": 16, "qtd": "1"},
-    { "id": 17, "P_Name": "Prod 17", "P_id": 17, "qtd": "1"},
-    { "id": 18, "P_Name": "Prod 18", "P_id": 18, "qtd": "1"}
-  ],
 }
