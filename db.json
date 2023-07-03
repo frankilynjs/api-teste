@@ -24,7 +24,4 @@
     { "id": 17, "P_Name": "Prod 17", "P_id": 17, "qtd": "1"},
     { "id": 18, "P_Name": "Prod 18", "P_id": 18, "qtd": "1"}
   ],
-  "empresa": {
-    "nome": "Teste"
-  }
 }
